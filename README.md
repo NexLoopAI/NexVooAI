@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi there, shall we meet? I'm <a href="https://nexvoo.cc/" target="_blank">NexVoo</a> 
+<img src="https:/HiveSpaceAI/github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Your AI Partner Helps You Better Write, Draw and Present.</h3>
 
-<!--
-**NexVooAI/NexVooAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://i.ibb.co/Fm2R96d/Frame-1618871882.png" width="400" alt="NexVoo Logo" />
+</div>
 
-Here are some ideas to get you started:
+<h1 align="center"></h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Us
+
+Welcome to NexVoo.
+
+We are a passionate team that believes in providing modern web infrastructure tools and solutions, sharing them as open source to promote their development and adoption through the wider community.
