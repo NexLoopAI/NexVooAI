@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, shall we meet? I'm <a href="https://nexvoo.cc/" target="_blank">NexVoo</a> 
-<img src="https:/HiveSpaceAI/github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, shall we meet? I'm <a href="https://nexvoo.app/" target="_blank">NexVoo</a> 
 <h3 align="center">Your AI Partner Helps You Better Write, Draw and Present.</h3>
 
 <div align="center">
