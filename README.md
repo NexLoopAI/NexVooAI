@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, shall we meet? I'm <a href="https://nexvoo.app/" target="_blank">NexVoo</a> 
+<h1 align="center">Hi there, shall we meet? I'm <a href="https://nexvoo.us/" target="_blank">NexVoo</a> 
 <h3 align="center">Your AI Partner Helps You Better Write, Draw and Present.</h3>
 
 <div align="center">
