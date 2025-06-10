@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, shall we meet? I'm <a href="https://nexloop.cc/" target="_blank">NexLoop</a> 
+<h1 align="center">Hi there, shall we meet? I'm <a href="https://nexloop.cc/" target="_blank">Yonda</a> 
 <h3 align="center">Your AI Partner Helps You Better Write, Draw and Present.</h3>
 
 <div align="center">
-<img src="https://i.ibb.co/RpkGs5g1/nexus.png" width="400" alt="Yonda[ Logo" />
+<img src="https://i.ibb.co/Rkqs9DfZ/Frame-1618871882.png" width="400" alt="Yonda[ Logo" />
 </div>
 
 <h1 align="center"></h1>
