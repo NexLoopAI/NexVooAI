@@ -2,7 +2,7 @@
 <h3 align="center">Your AI Partner Helps You Better Write, Draw and Present.</h3>
 
 <div align="center">
-<img src="https://i.ibb.co/Rkqs9DfZ/Frame-1618871882.png" width="400" alt="Yonda[ Logo" />
+<img src="https://i.ibb.co/sJghyRgG/Frame-1618871882-1.png" width="400" alt="Yonda[ Logo" />
 </div>
 
 <h1 align="center"></h1>
